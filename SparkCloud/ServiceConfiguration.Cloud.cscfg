@@ -4,7 +4,7 @@
     <Instances count="1" />
     <ConfigurationSettings>
       <Setting name="ServiceBusConnectionString" value="???" />
-      <Setting name="StorageConnectionString" value="DefaultEndpointsProtocol=https;AccountName=sparkconf;AccountKey=z9tNAYutAH33iYraC1/eZEQfuE/SGK3+2Qy+SQc6P5i015/CHwiU99G8g0BbyL+qn1kYK4WGp2enN1pnhVGOsA==" />
+      <Setting name="StorageConnectionString" value="???" />
     </ConfigurationSettings>
   </Role>
 </ServiceConfiguration>
